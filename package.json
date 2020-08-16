@@ -1,0 +1,19 @@
+{
+  "name": "phonecompanytestui",
+  "version": "1.0.0",
+  "description": "Projekt für Test im UI Modul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciamac-da/PhoneCompanyTestUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciamac-da/PhoneCompanyTestUI/issues"
+  },
+  "homepage": "https://github.com/ciamac-da/PhoneCompanyTestUI#readme"
+}
